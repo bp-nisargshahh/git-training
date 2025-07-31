@@ -8,9 +8,9 @@ Edit these lines in a way that causes merge conflict.
 
 And add your names below.
 
-1. Nisarg Shah Dhananajay 
+1. Nisarg Shah
 2. Dhananjay Jadhav
-3.
+3. Shahrukh khan
 4.
 
 END OF FILE
