@@ -1,0 +1,17 @@
+This is the main file that is made for testing.
+
+Edit these lines in a way that causes merge conflict.
+
+1. Remove this line - 1
+2. Remove this line - 2
+3. Remove this line - 3
+4. Remove this line - 4
+
+And add your names below.
+
+1.
+2.
+3.
+4.
+
+END OF FILE
