@@ -9,8 +9,8 @@ Edit these lines in a way that causes merge conflict.
 And add your names below.
 
 1. Nisarg Shah
-2.
-3.
-4.
+2. Stuart Broad
+3. Brad Pitt
+4. Yuvraj Singh
 
 END OF FILE
